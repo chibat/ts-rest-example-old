@@ -8,12 +8,12 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "@ts-rest/core": "^3.19.4"
+  },
   "devDependencies": {
     "ts-node": "^10.9.1",
-    "typescript": "^5.0.4"
-  },
-  "dependencies": {
-    "@ts-rest/core": "^3.19.4",
+    "typescript": "^5.0.4",
     "contract": "file:../contract"
   }
 }
