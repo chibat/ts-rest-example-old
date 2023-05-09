@@ -1,5 +1,5 @@
 import { initClient } from "@ts-rest/core";
-import { apiBlog } from "./contract-blog";
+import { apiBlog } from "contract";
 
 const client = initClient(apiBlog, {
   baseUrl: 'http://localhost:3000',

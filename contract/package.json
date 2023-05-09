@@ -1,0 +1,18 @@
+{
+  "name": "contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/contract-blog.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@ts-rest/core": "^3.19.4",
+    "zod": "^3.21.4"
+  }
+}

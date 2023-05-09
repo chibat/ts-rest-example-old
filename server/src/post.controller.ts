@@ -1,5 +1,5 @@
 import { Controller, Get, Query } from '@nestjs/common';
-import { apiBlog } from './contract-blog';
+import { apiBlog } from 'contract';
 import {
   nestControllerContract,
   NestControllerInterface,
